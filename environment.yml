@@ -1,0 +1,11 @@
+name: pswd-storage
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python
+  - argon2_cffi
+  - orjson
+  - pip:
+    - tkextrafont
