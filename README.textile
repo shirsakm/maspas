@@ -1,0 +1,17 @@
+! MasPas
+!!!! The password manager you never knew you needed!
+
+!! How to setup
+
+# You just download the app and run it (for now).
+
+!! How to contribute
+
+p. Oh, so you would like to contribute to the project?
+
+# Clone the project.
+# Set your indednt to 2 and that's it--no, I don't use PEP-8 or any other formatter
+
+p. If you can not understand what is going on the code--and I don't blame you-- check out "how the code works":https://leftomash.github.io/maspas/HowTheCodeWorks.html [1]
+
+fn1. Not yet setup.

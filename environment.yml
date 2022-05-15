@@ -5,7 +5,4 @@ channels:
 
 dependencies:
   - python
-  - argon2_cffi
   - orjson
-  - pip:
-    - tkextrafont
