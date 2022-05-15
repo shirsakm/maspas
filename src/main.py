@@ -1,10 +1,4 @@
-import maspas
-
-def main():
-  print(dir(maspas))
-  
-  print('Starting the app....')
-
+from apps import maspas
 
 if __name__ == '__main__':
-  main()
+  maspas.App().start()
